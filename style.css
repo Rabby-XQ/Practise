@@ -1,0 +1,16 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: brown;
+    
+}
+.name{
+    color: white;
+}
+.pn{
+    float: left;
+}
+.pn2{
+    float: right;
+    width: 50%;
+}

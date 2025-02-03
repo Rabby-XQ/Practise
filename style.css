@@ -1,16 +1,33 @@
 h1{
     font-size: 50px;
-    text-align: center;
-    background-color: brown;
-    
+    margin-top: 70px;
+    margin-left: inline;
+}
+.bt{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,orange);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+
 }
 .name{
-    color: white;
+    color: rgb(230, 105, 22);
 }
 .pn{
     float: left;
+    margin-left: 40px;
 }
 .pn2{
     float: right;
     width: 50%;
+    margin-top: 200px;
+}
+.top{
+    background-image: url("images/top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    margin: 10px;
 }
